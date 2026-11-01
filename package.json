@@ -1,0 +1,1 @@
+{"name":"itc-componentes","version":"1.0.0","type":"module","files":["02-proyecto-unidad/libreria"],"scripts":{"test":"node --test tests/*.test.js"},"devDependencies":{"jsdom":"*"}}
